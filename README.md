@@ -11,7 +11,6 @@ The goals / steps of this project are the following:
 [image1]: ./images/belief_after_simulation.png "Simulation"
 [image2]: ./images/result.png "Result"
 
-## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
 ---
 
 The code for this project is contained in the IPython notebook: "Advanced_Lane_Finding.ipynb" 
