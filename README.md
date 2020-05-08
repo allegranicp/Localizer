@@ -4,7 +4,7 @@ Overview
 ---
 The goals / steps of this project are the following:
 
-* Implemente a localizer using histograms and Gaussian distributions with additional sensor data to improve the belief of where a car thinks it is on a map.
+* Implement a localizer using histograms and Gaussian distributions with additional sensor data to improve the belief of where a car thinks it is on a map.
 
 [//]: # (Image References)
 [image0]: ./images/initial_belief.png "Initial"
