@@ -13,7 +13,7 @@ The goals / steps of this project are the following:
 
 ---
 
-The code for this project is contained in the IPython notebook: "Advanced_Lane_Finding.ipynb" 
+The code for this project is contained in the file: "Localizer.py" 
 
 ### Writeup / README
 
